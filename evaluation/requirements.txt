@@ -6,4 +6,4 @@ python-dateutil>=2.8.2
 platformdirs>=2.5
 pandas
 loguru
-datasets==3.6.0
+datasets==5.0.1
